@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: Remove this useless assignment to local variable &quot;count&quot;." />
+      <item value="Local variable 'spuList' is redundant" />
+      <item value="Expression statement is not assignment or call" />
       <item value="Wrong number of type arguments: 1; required: 2" />
       <item value="Unresolved variable saleAttrValueName" />
       <item value="Add a &quot;method&quot; parameter to this &quot;@RequestMapping&quot; annotation." />

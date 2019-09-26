@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unresolved variable saleAttrValueName" />
       <item value="Add a &quot;method&quot; parameter to this &quot;@RequestMapping&quot; annotation." />
       <item value="SonarLint: Add a &quot;method&quot; parameter to this &quot;@RequestMapping&quot; annotation." />
       <item value="SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so they can be fixed before committing code. You can get it directly from the IntelliJ IDEA Plugin Repository, and it will then detect new bugs and quality issues as you code (Java, Kotlin, Ruby, JavaScript, PHP and Python). If your project is analyzed on SonarQube or on SonarCloud, SonarLint can connect to the server to retrieve the appropriate quality profiles and settings for that project. Java 8 is required to run SonarLint." />

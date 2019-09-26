@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selective" />
       <item value="SonarLint: Remove this useless assignment to local variable &quot;count&quot;." />
       <item value="Local variable 'spuList' is redundant" />
       <item value="Expression statement is not assignment or call" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

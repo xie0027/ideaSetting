@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
+      <item value="Add a private constructor to hide the implicit public one." />
+      <item value="Remove this useless assignment to local variable &quot;myFileUploadUtil&quot;." />
+      <item value="String concatenation as argument to 'StringBuilder.append()' call" />
+      <item value="Use a StringBuilder instead." />
+      <item value="Put single-quotes around '.' to use the faster &quot;lastIndexOf(char)&quot; method." />
       <item value="Remove this useless assignment to local variable &quot;trackerServer&quot;." />
       <item value="This block of commented-out lines of code should be removed." />
       <item value="Use a logger to log this exception." />
@@ -34,7 +40,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>

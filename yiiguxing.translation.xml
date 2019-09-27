@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use a logger to log this exception." />
       <item value="Add at least one assertion to this test case" />
       <item value="Rename this local variable to match the regular expression" />
       <item value="Comparison spuSaleAttr.spuSaleAttrValueJson!='' may cause unexpected type coercion" />

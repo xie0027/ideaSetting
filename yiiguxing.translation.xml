@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rename this local variable to match the regular expression" />
       <item value="Comparison spuSaleAttr.spuSaleAttrValueJson!='' may cause unexpected type coercion" />
       <item value="Selective" />
       <item value="SonarLint: Remove this useless assignment to local variable &quot;count&quot;." />

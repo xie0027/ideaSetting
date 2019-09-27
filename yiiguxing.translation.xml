@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove this useless assignment to local variable &quot;trackerServer&quot;." />
+      <item value="This block of commented-out lines of code should be removed." />
       <item value="Use a logger to log this exception." />
       <item value="Add at least one assertion to this test case" />
       <item value="Rename this local variable to match the regular expression" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value assigned is never used Variable is assigned to itself" />
       <item value="VAGRANT" />
       <item value="value" />
       <item value="Deprecated HTML attribute" />

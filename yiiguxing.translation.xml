@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="column cant resolved" />
       <item value="Unresolved variable isDefault" />
       <item value="Method expression is not of Function type" />
       <item value="The value assigned is never used Variable is assigned to itself" />

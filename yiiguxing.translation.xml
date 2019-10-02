@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependency" />
       <item value="Application context not configured for this file" />
       <item value="String concatenation '+=' in loop" />
       <item value="column cant resolved" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>

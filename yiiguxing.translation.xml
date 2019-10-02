@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable 'skuInfo' initializer 'new SkuInfo()' is redundant" />
+      <item value="Remove this useless assignment to local variable &quot;skuInfo&quot;." />
       <item value="Dependency" />
       <item value="Application context not configured for this file" />
       <item value="String concatenation '+=' in loop" />
@@ -49,7 +51,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="5" />
       </map>
     </option>

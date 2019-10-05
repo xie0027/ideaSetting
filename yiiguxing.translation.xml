@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Private field 'listService' is never assigned" />
       <item value="Contents of collection 'skuLsInfos' are updated, but never queried" />
       <item value="exceptions: java.lang.IllegalAccessException, java.lang.reflect.InvocationTargetException" />
       <item value="Remove this useless assignment to local variable &quot;skuInfos&quot;." />
@@ -50,7 +51,6 @@
       <item value="Enables Cucumber support with step definitions written in Java. The following coding assistance features are available:" />
       <item value="Error and syntax highlighting. Indentation. Intention actions. Viewing code structure. Navigation in the source code. Integrated documentation. Code completion. Search for usages. Commenting and uncommenting lines." />
       <item value="Error and syntax highlighting.&#10;Indentation.&#10;Intention actions.&#10;Viewing code structure.&#10;Navigation in the source code.&#10;Integrated documentation.&#10;Code completion.&#10;Search for usages.&#10;Commenting and uncommenting lines." />
-      <item value="Enables Cucumber support with step definitions written in Groovy. The following coding assistance features are available:" />
     </histories>
     <option name="languageScores">
       <map>

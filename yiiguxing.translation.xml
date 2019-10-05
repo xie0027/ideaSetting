@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contents of collection 'skuLsInfos' are updated, but never queried" />
+      <item value="exceptions: java.lang.IllegalAccessException, java.lang.reflect.InvocationTargetException" />
       <item value="Remove this useless assignment to local variable &quot;skuInfos&quot;." />
       <item value="Would you like to install a shell script formatter?" />
       <item value="Base Attr Value Mapper" />
@@ -49,8 +51,6 @@
       <item value="Error and syntax highlighting. Indentation. Intention actions. Viewing code structure. Navigation in the source code. Integrated documentation. Code completion. Search for usages. Commenting and uncommenting lines." />
       <item value="Error and syntax highlighting.&#10;Indentation.&#10;Intention actions.&#10;Viewing code structure.&#10;Navigation in the source code.&#10;Integrated documentation.&#10;Code completion.&#10;Search for usages.&#10;Commenting and uncommenting lines." />
       <item value="Enables Cucumber support with step definitions written in Groovy. The following coding assistance features are available:" />
-      <item value="Provides the capability to edit Markdown files within the IDE and see the rendered HTML in a live preview. Includes the following features: Document structure view, headers folding, highlighting, TODOs. Code completion and navigation for links to project files. Embedding fenced code blocks for different languages. Visualizing diagrams for the DOT or PlantUML diagramming languages. Ability to use custom stylesheets for a live preview" />
-      <item value="Provides the capability to edit Markdown files within the IDE and see the rendered HTML in a live preview. Includes the following features:&#10;Document structure view, headers folding, highlighting, TODOs.&#10;Code completion and navigation for links to project files.&#10;Embedding fenced code blocks for different languages.&#10;Visualizing diagrams for the DOT or PlantUML diagramming languages.&#10;Ability to use custom stylesheets for a live preview" />
     </histories>
     <option name="languageScores">
       <map>

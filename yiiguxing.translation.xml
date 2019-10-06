@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immediately return this expression instead of assigning it to the temporary variable &quot;strings&quot;." />
       <item value="Only variable expressions returning numbers or booleans are allowed in this context, any other datatypes are not trusted in the context of this expression, including Strings or any other object that could be rendered as a text literal. A typical case is HTML attributes for event handlers (e.g. &quot;onload&quot;), in which textual data from variables should better be output to &quot;data-*&quot; attributes and then read from the event handler. (template: &quot;list&quot; - line 200, col 45)" />
       <item value="Only variable expressions returning numbers or booleans are allowed in this context" />
       <item value="Private field 'listService' is never assigned" />
@@ -50,7 +51,6 @@
       <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers. Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings. See the Share settings through a settings repository for more info." />
       <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers.&#10;Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings.&#10;See the Share settings through a settings repository for more info." />
       <item value=" Cucumber " />
-      <item value="Enables Cucumber support with step definitions written in Java. The following coding assistance features are available:" />
     </histories>
     <option name="languageScores">
       <map>

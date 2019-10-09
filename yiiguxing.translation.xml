@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use indentation to denote the code conditionally executed by this &quot;if&quot;. [+1 location]" />
+      <item value="Argument 'cartInfoList' might be null" />
       <item value="Loop can be terminated after condition is met" />
       <item value="Remove this &quot;return&quot; statement or make it conditional." />
       <item value="Unreachable statement" />
@@ -49,8 +51,6 @@
       <item value="Local variable 'spuList' is redundant" />
       <item value="Expression statement is not assignment or call" />
       <item value="Wrong number of type arguments: 1; required: 2" />
-      <item value="Unresolved variable saleAttrValueName" />
-      <item value="Add a &quot;method&quot; parameter to this &quot;@RequestMapping&quot; annotation." />
     </histories>
     <option name="languageScores">
       <map>

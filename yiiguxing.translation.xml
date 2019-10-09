@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return an empty collection instead of null." />
       <item value="Use indentation to denote the code conditionally executed by this &quot;if&quot;. [+1 location]" />
       <item value="Argument 'cartInfoList' might be null" />
       <item value="Loop can be terminated after condition is met" />
@@ -50,7 +51,6 @@
       <item value="SonarLint: Remove this useless assignment to local variable &quot;count&quot;." />
       <item value="Local variable 'spuList' is redundant" />
       <item value="Expression statement is not assignment or call" />
-      <item value="Wrong number of type arguments: 1; required: 2" />
     </histories>
     <option name="languageScores">
       <map>

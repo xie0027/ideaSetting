@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Process" />
+      <item value="Process Status" />
+      <item value="Payment Status" />
       <item value="This block of commented-out lines of code should be removed." />
       <item value="Dereference of 'cartListDb' may produce 'NullPointerException'" />
       <item value="Condition '!&quot;fail&quot;.equals(result)' is always 'true'" />
@@ -48,14 +51,11 @@
       <item value="Remove this useless assignment to local variable &quot;myFileUploadUtil&quot;." />
       <item value="Use a StringBuilder instead." />
       <item value="Put single-quotes around '.' to use the faster &quot;lastIndexOf(char)&quot; method." />
-      <item value="Remove this useless assignment to local variable &quot;trackerServer&quot;." />
-      <item value="Use a logger to log this exception." />
-      <item value="Add at least one assertion to this test case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRANSACTED" />
       <item value="Comment" />
       <item value="Process" />
       <item value="Process Status" />
@@ -50,12 +51,11 @@
       <item value="invalid" />
       <item value="Add a private constructor to hide the implicit public one." />
       <item value="Remove this useless assignment to local variable &quot;myFileUploadUtil&quot;." />
-      <item value="Use a StringBuilder instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>

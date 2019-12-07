@@ -1,8 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
-    <option name="SHOW_INPLACE_COMMENTS" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-  </component>
-</application>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please review your deployment settings." />
+      <item value="exist" />
       <item value="Provides integration with the Cloud Foundry platform." />
       <item value="sdsa" />
       <item value="TRANSACTED" />
@@ -49,13 +51,11 @@
       <item value="The value assigned is never used Variable is assigned to itself" />
       <item value="VAGRANT" />
       <item value="value" />
-      <item value="Deprecated HTML attribute" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
